@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.otmm.731</groupId>
+  <artifactId>commons-httpclient-3.1</artifactId>
+  <versioning>
+    <release>7.31</release>
+    <versions>
+      <version>7.31</version>
+    </versions>
+    <lastUpdated>20150422154910</lastUpdated>
+  </versioning>
+</metadata>
